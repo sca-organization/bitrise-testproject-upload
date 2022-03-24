@@ -32,7 +32,11 @@ workflows:
           file if you would not specify another value.
         run_if: true
         inputs:
-        - example_step_input: Example Step Input's value
+        - apk_ipa_filepath: test_apk_ipa_filepath
+        - testproject_job_id: test_job_id
+        - testproject_access_key: test_access_key
+        - testproject_project_id: test_project_id
+        - testproject_app_id: test_app_id
 
   # ----------------------------------------------------------------
   # --- workflows to Share this step into a Step Library
