@@ -7,9 +7,9 @@
 # - Bitrise docs: http://devcenter.bitrise.io/
 # - Bitrise CLI guides: http://devcenter.bitrise.io/bitrise-cli/
 
-title: TestProject and BrowserStack Upload
-summary: Upload an IPA file to test an automated TestProject job
-description: TestProject automated job
+title: Upload a file to TestProject
+summary: Upload an IPA/APK file to TestProject
+description: Upload an IPA/APK file to TestProject
 website:  https://github.com/sca-organization/bitrise-testproject-upload
 source_code_url:  https://github.com/sca-organization/bitrise-testproject-upload
 support_url:  https://github.com/sca-organization/bitrise-testproject-upload/issues
